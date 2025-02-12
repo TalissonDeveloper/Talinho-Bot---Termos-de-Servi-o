@@ -1,96 +1,40 @@
-markdown
-# Termos de Serviço do Bot Talinho
+# 📌 Sobre a Cheetah Network  
 
-## 1. Aceitação dos Termos
+A **Cheetah Network** é uma empresa de tecnologia fundada no Brasil com a missão de oferecer soluções inovadoras e personalizadas que conectam pessoas e transformam ideias em realidade. Ao longo de um ano de trajetória, conquistamos uma reputação por nossa agilidade, excelência e compromisso com resultados.  
 
-Ao utilizar o bot Talinho ("Bot"), você concorda em estar vinculado aos termos e condições estabelecidos neste documento ("Termos de Serviço"). Se você não concorda com algum desses termos, não utilize o Bot.
+## 🚀 O Que Fazemos  
 
-## 2. Descrição do Serviço
+Com um portfólio diversificado de serviços, ajudamos empresas e comunidades digitais a alcançar novos patamares de eficiência e inovação:  
 
-O Bot Talinho é um bot de diversão destinado a melhorar a experiência dos usuários no Discord, oferecendo funcionalidades como jogos, comandos de entretenimento, e outros serviços de diversão.
+### 🎯 **Programação de Bots para Discord**  
+Desenvolvemos bots inteligentes e multifuncionais para automatizar tarefas, melhorar a moderação de servidores e criar experiências interativas para comunidades digitais.  
 
-## 3. Modificações nos Termos
+### 🌐 **Desenvolvimento de Websites**  
+Criamos sites modernos, responsivos e otimizados, oferecendo uma experiência de usuário fluida e alinhada às necessidades de cada cliente. Nossos sites são projetados para garantir desempenho, acessibilidade e segurança.  
 
-Reservamos o direito de modificar estes Termos de Serviço a qualquer momento. Qualquer modificação será comunicada por meio do canal oficial do bot ou via atualização neste documento. Ao continuar a utilizar o Bot após quaisquer mudanças, você aceita os novos termos.
+### 🎨 **Design Gráfico**  
+Produzimos materiais visuais de alta qualidade para marcas e empresas, desde logotipos até campanhas visuais completas. Acreditamos que o design é um pilar essencial para a identidade e a presença digital.  
 
-## 4. Uso do Serviço
-
-Você concorda em usar o Bot apenas para fins legais e em conformidade com as políticas do Discord. É proibido:
-- Usar o Bot para assediar, ameaçar ou causar danos a outros.
-- Utilizar o Bot para atividades ilegais ou não autorizadas.
-- Manipular ou explorar o Bot de maneira que possa prejudicar seu funcionamento.
-
-## 5. Privacidade
-
-Coletamos informações limitadas para operar o Bot, como identificadores de usuário e mensagens de comando. Essas informações são usadas exclusivamente para fornecer os serviços do Bot e não são compartilhadas com terceiros.
-
-## 6. Limitação de Responsabilidade
-
-O Bot é fornecido "como está" e "conforme disponível", sem garantias de qualquer tipo, expressas ou implícitas. Não garantimos que o Bot será ininterrupto ou livre de erros. Em nenhum caso, seremos responsáveis por quaisquer danos diretos, indiretos, incidentais, consequenciais ou especiais decorrentes do uso ou da incapacidade de usar o Bot.
-
-## 7. Indenização
-
-Você concorda em indenizar e isentar de responsabilidade os desenvolvedores do Bot Talinho por qualquer reclamação, perda, responsabilidade, demanda ou despesa (incluindo honorários advocatícios) decorrente do uso do Bot ou violação destes Termos de Serviço.
-
-## 8. Rescisão
-
-Reservamos o direito de suspender ou encerrar seu acesso ao Bot a qualquer momento, sem aviso prévio, por qualquer motivo, incluindo, mas não limitado a, violação destes Termos de Serviço.
-
-## 9. Contato
-
-Se você tiver alguma dúvida sobre estes Termos de Serviço, entre em contato conosco através do nosso canal oficial de suporte no Discord.
+### 💡 **Soluções Customizadas**  
+Entendemos que cada projeto é único. Por isso, oferecemos consultoria e desenvolvimento sob medida para empresas e comunidades, integrando tecnologia e inovação para resolver desafios específicos.  
 
 ---
 
-Data da última atualização: [Insira a data da última atualização]
+## 🌟 Nossa Filosofia  
 
+Na Cheetah Network, nossos valores são a base de tudo o que fazemos:  
+
+- **Agilidade e Velocidade:** Atuamos com rapidez, sem comprometer a qualidade, para entregar soluções dentro dos prazos estabelecidos.  
+- **Inovação Constante:** Investimos em novas tecnologias e metodologias para oferecer sempre o que há de mais avançado.  
+- **Conexão de Pessoas:** Construímos comunidades e relações de longo prazo por meio de soluções que criam oportunidades e crescimento.  
+- **Foco em Resultados:** Estamos comprometidos em gerar valor real para nossos clientes e parceiros, com soluções que fazem a diferença.  
 
 ---
 
-Você pode copiar este conteúdo e col
+## 🌍 Nossa Presença  
 
-Aqui está o documento completo para você postar no GitHub:
+Desde nossa fundação, ampliamos nossa atuação e conquistamos uma posição sólida no mercado de tecnologia. Nossa equipe é composta por profissionais apaixonados e comprometidos com a excelência.  
 
----
+## 🔗 Canais de Contato  
 
-markdown
-# Termos de Serviço do Bot Talinho
-
-## 1. Aceitação dos Termos
-
-Ao utilizar o bot Talinho ("Bot"), você concorda em estar vinculado aos termos e condições estabelecidos neste documento ("Termos de Serviço"). Se você não concorda com algum desses termos, não utilize o Bot.
-
-## 2. Descrição do Serviço
-
-O Bot Talinho é um bot de diversão destinado a melhorar a experiência dos usuários no Discord, oferecendo funcionalidades como jogos, comandos de entretenimento, e outros serviços de diversão.
-
-## 3. Modificações nos Termos
-
-Reservamos o direito de modificar estes Termos de Serviço a qualquer momento. Qualquer modificação será comunicada por meio do canal oficial do bot ou via atualização neste documento. Ao continuar a utilizar o Bot após quaisquer mudanças, você aceita os novos termos.
-
-## 4. Uso do Serviço
-
-Você concorda em usar o Bot apenas para fins legais e em conformidade com as políticas do Discord. É proibido:
-- Usar o Bot para assediar, ameaçar ou causar danos a outros.
-- Utilizar o Bot para atividades ilegais ou não autorizadas.
-- Manipular ou explorar o Bot de maneira que possa prejudicar seu funcionamento.
-
-## 5. Privacidade
-
-Coletamos informações limitadas para operar o Bot, como identificadores de usuário e mensagens de comando. Essas informações são usadas exclusivamente para fornecer os serviços do Bot e não são compartilhadas com terceiros.
-
-## 6. Limitação de Responsabilidade
-
-O Bot é fornecido "como está" e "conforme disponível", sem garantias de qualquer tipo, expressas ou implícitas. Não garantimos que o Bot será ininterrupto ou livre de erros. Em nenhum caso, seremos responsáveis por quaisquer danos diretos, indiretos, incidentais, consequenciais ou especiais decorrentes do uso ou da incapacidade de usar o Bot.
-
-## 7. Indenização
-
-Você concorda em indenizar e isentar de responsabilidade os desenvolvedores do Bot Talinho por qualquer reclamação, perda, responsabilidade, demanda ou despesa (incluindo honorários advocatícios) decorrente do uso do Bot ou violação destes Termos de Serviço.
-
-## 8. Rescisão
-
-Reservamos o direito de suspender ou encerrar seu acesso ao Bot a qualquer momento, sem aviso prévio, por qualquer motivo, incluindo, mas não limitado a, violação destes Termos de Serviço.
-
-## 9. Contato
-
-Se você tiver alguma dúvida sobre estes Termos de Serviço, entre em contato conosco através do nosso canal oficial de suporte no Discord.
+- [Instagram Oficial](https://instagram.com/cheetah_network)  
